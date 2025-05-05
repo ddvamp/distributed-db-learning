@@ -12,8 +12,6 @@
 Поскольку сеть ненадёжна (теряет сообщения), нужны Retry, которые нужно уметь останавливать, так что нужны cancellation, отправляемые по сбору кворума, по окончанию scope (RAII токен), по смерти корутины/файбера или по ручному завершению (stop token). Главное использовать таймауты (или иметь аналогичные механизмы отмены) в асинхронных системных вызовах, чтобы помимо ресурсов программы можно было освободить ресурсы ОС
 Именно из-за retry-ев реплики посылают ack даже на запоздавшие записи, поскольку такое может случиться на большинстве узлов, и в противном случае таска бесконечно крутилась бы без возможности собрать кворум
 
-<div>
-  <a href=''>Left</a>
-  <a href=''>Center</a>
-  <a href=''>Right</a>
-</div>
+[↑ Содержание ↑](https://github.com/ddvamp/distributed-db-learning/tree/main/notes/dist-sys-mipt#содержание)\
+[← Лекция 2](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-2.md)
+[Лекция 3 →](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-3.md)

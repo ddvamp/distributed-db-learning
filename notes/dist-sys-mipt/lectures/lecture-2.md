@@ -85,8 +85,6 @@ Quorum System также позволяет избежать split brain: пос
 
 Как оценить эффективность алгоритма? Нужна модель стоимостей. Два основных расхода времени (влияющие на latency): RTT (RoundTrip Time) - время между отправкой сообщения и получением ответа, Disk - время записи на диск вместе с flush (fsync - отправить данные из страничного кэша на диск). В зависимости от удалённости узлов и вида диска может превалировать одно из двух. Вся операция внутри системы (обе фазы) называется Quorum flush - инициировать кворум, каждой репликой обработать запрос со сбросом диска, собрать ack-и
 
-<div align="center">
-  <a href=''>Left</a>
-  <a href=''>Center</a>
-  <a href=''>Right</a>
-</div>
+[↑ Содержание ↑](https://github.com/ddvamp/distributed-db-learning/tree/main/notes/dist-sys-mipt#содержание)\
+[← Семинар 1](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-1.md)
+[Семинар 2 →](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-2.md)

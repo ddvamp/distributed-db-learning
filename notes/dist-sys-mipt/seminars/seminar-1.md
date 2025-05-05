@@ -31,8 +31,6 @@ TCP медленный, т.е. из-за flow и congestion control он нач�
 
 Современные распределённые системы начинают работать в облаках, поэтому для высокой производительности должны учитывать виртуализацию, контейнеры, планировщики кластеров и разделение ресурсов, и т.п.
 
-<div align="center">
-  <a href=''>Left</a>
-  <a href=''>Center</a>
-  <a href=''>Right</a>
-</div>
+[↑ Содержание ↑](https://github.com/ddvamp/distributed-db-learning/tree/main/notes/dist-sys-mipt#содержание)\
+[← Лекция 1](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-1.md)
+[Лекция 2 →](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-2.md)
