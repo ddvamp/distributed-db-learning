@@ -8,7 +8,7 @@
 
 ## Содержание
 
-[Lecture 1](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-1.md)\
-[Seminar 1](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-1.md)\
-[Lecture 2](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-2.md)\
-[Seminar 2](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-2.md)
+[Lecture 1. Модель распределённой системы](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-1.md)\
+[Seminar 1. Среда исполнения распределённой системы](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-1.md)\
+[Lecture 2. Линеаризуемость. Репликация регистра, алгоритм ABD](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-2.md)\
+[Seminar 2. Реализация регистра в коде](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-2.md)
