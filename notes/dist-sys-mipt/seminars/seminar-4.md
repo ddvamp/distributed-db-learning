@@ -21,7 +21,7 @@
 - $Delete \left \lparen p \right \rparen $
 - $Copy \left \lparen d, s \right \rparen, d - dst, s - src $
 - $` PRead \left \lparen p, o, s \right \rparen, o - offset, s - size `$ - для простоты вместо fd используем path. fd реализуются на уровне выше, который не рассматриваем
-[x] $` Write \left \lparen p, o, d \right \rparen, d - data `$ - оффсет записи выбирает пользователь
+- ❌ $` Write \left \lparen p, o, d \right \rparen, d - data `$ - оффсет записи выбирает пользователь
 - $` Append \left \lparen p, d \right \rparen `$ - оффсет записи выбирает система
 
 Выбор, реализовать $Write$, $Append$ или обе, колоссально влияет на дизайн и построение DFS. Здесь легко ошибиться. Упростим систему и уберём $Write$, мотивируя это в конце
