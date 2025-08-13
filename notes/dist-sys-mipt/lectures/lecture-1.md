@@ -183,7 +183,7 @@ SC_2 \left \lparen t \right \rparen \in \left \lbrack SC_1 \left \lparen t \righ
 
 Тайм мастеров два вида, либо узел с *GPS антеной* (для синхронизации своих часов по GPS), либо *Armagedon Master* с атомными часами. Они независимы и имеют разные сценарии отказа
 
-TrueTime используется для замены долгого межконтинентального общения ($\sim10-100ms$) ожиданием не дольше $6ms$ (в настоящее время сильно меньше). Применение описано в [лекции 2](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-2.md#использование-truetime) и в [семинаре 6](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-6.md#truetime)
+TrueTime используется для замены долгого межконтинентального общения ($\sim10-100ms$) ожиданием не дольше $6ms$ (в настоящее время сильно меньше). Применение описано в [лекции 2](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-2.md#использование-truetime) и в [семинаре 6](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-6.md#truetime-вместо-коммуникации)
 
 [↑ Содержание ↑](https://github.com/ddvamp/distributed-db-learning/tree/main/notes/dist-sys-mipt#содержание)\
 [Семинар 1 →](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-1.md)
