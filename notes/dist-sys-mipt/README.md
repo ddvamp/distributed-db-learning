@@ -21,4 +21,6 @@
 [Lecture 6. Multi-Paxos](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-6.md)\
 [Seminar 6. TrueTime. Снимки в LSM](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-6.md)\
 [Lecture 7. RAFT](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-7.md)\
-[Lecture 8. Paxos Made Live](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-8.md)
+[Lecture 8. Paxos Made Live](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-8.md)\
+[Lecture 9. Exabyte-scale KV & DFS](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-9.md)\
+[Seminar 7. CASPaxos](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-7.md)
