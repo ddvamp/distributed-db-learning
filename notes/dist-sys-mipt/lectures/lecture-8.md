@@ -115,4 +115,4 @@ TODO: Непонятно как в последнем варианте масш�
 
 [↑ Содержание ↑](https://github.com/ddvamp/distributed-db-learning/tree/main/notes/dist-sys-mipt#содержание)\
 [← Лекция 7](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-7.md)
-[← Лекция 9](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-9.md)
+[Лекция 9 →](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-9.md)
