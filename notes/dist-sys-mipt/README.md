@@ -25,4 +25,5 @@
 [Lecture 9. Exabyte-scale KV & DFS](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-9.md)\
 [Seminar 7. CASPaxos](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-7.md)\
 [Lecture 10. Спецификация распределённой системы. TLA+](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-10.md)\
-[Lecture 11. Транзакции, изоляция транзакций, 2PL и SI](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-11.md)
+[Lecture 11. Транзакции, изоляция транзакций, 2PL и SI](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-11.md)\
+[Seminar 8. Crash consistency](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-8.md)

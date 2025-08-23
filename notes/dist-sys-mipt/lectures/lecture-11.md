@@ -119,3 +119,4 @@ TODO: Почему он называется двухфазным? Есть ещ
 
 [↑ Содержание ↑](https://github.com/ddvamp/distributed-db-learning/tree/main/notes/dist-sys-mipt#содержание)\
 [← Лекция 10](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/lectures/lecture-10.md)
+[Семинар 8 →](https://github.com/ddvamp/distributed-db-learning/blob/main/notes/dist-sys-mipt/seminars/seminar-8.md)
